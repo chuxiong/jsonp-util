@@ -6,12 +6,6 @@
 
 # Install
 
-Node.js
-
-```shell
-npm install jsonp-util
-```
-
 browser
 
 ```html
