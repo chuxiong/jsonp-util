@@ -60,3 +60,5 @@ const jsonp = (url, opt = {}, fn = null) => {
     document.head.appendChild(script)
   })
 }
+
+module.exports = jsonp
